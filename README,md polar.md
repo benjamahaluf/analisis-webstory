@@ -4,7 +4,7 @@
 
 [Think this polar vortex was cold? It should have been colder.](https://www.nationalgeographic.com/environment/article/this-polar-vortex-should-have-been-colder)  
 
-## 📖 Descripción de la historia que cuenta  
+## Descripción de la historia que cuenta  
 
 Esta webstory de **National Geographic** analiza el fenómeno del **vórtice polar** y cómo, a pesar de que las temperaturas recientes han sido muy bajas, los datos muestran una tendencia a largo plazo hacia inviernos menos fríos y menos severos.  
 
@@ -16,7 +16,7 @@ A través de **gráficos y visualizaciones de datos**, la historia ilustra el co
 
 ---
 
-## ⭐ ¿Por qué es interesante? ¿Qué destacarías de su estructura narrativa?  
+## ¿Por qué es interesante? ¿Qué destacarías de su estructura narrativa?  
 
 Esta historia es interesante porque desafía la percepción común de que los frentes fríos extremos significan que el calentamiento global no es real. Muchas veces, cuando hay una ola de frío intensa, algunas personas creen que es una señal de que el cambio climático no está ocurriendo, pero este reportaje demuestra lo contrario usando datos concretos.  
 
@@ -28,7 +28,7 @@ Otro aspecto a destacar es que el lenguaje utilizado es accesible para el públi
 
 ---
 
-## ✅ Evaluación de su efectividad para transmitir información  
+## Evaluación de su efectividad para transmitir información  
 
 Este reportaje es muy **efectivo** en la manera en que comunica información científica compleja. Hay varios factores que contribuyen a su claridad y atractivo:  
 
@@ -47,7 +47,3 @@ En general, esta webstory logra transmitir un mensaje claro: el cambio climátic
 Este tipo de reportajes son fundamentales para combatir la desinformación sobre el clima y ayudar a las personas a comprender la diferencia entre eventos climáticos individuales y tendencias a largo plazo.  
 
 ---
-
-## 📷 Imágenes y capturas de pantalla  
-
-(Aquí puedes agregar capturas de pantalla de la webstory para ilustrar tu análisis. Para hacerlo en GitHub, simplemente arrastra y suelta la imagen en el editor Markdown).  
